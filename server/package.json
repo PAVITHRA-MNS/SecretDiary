@@ -1,0 +1,21 @@
+{
+  "name": "noteapp-backend",
+  "version": "1.0.0",
+  "description": "The \"Notes App using MERN stack\" is a full-stack web application that allows users to create, read, update, and delete notes. This app has been developed using the MERN stack, which is a combination of four powerful technologies: MongoDB, Express.js, React, and Node.js. The app has been developed in a single video, from development to deployment, making it an excellent resource for beginners who want to learn full-stack web development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.2",
+    "nodemon": "^2.0.20"
+  }
+}
